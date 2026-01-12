@@ -103,8 +103,6 @@ Website company profile untuk mendukung kebutuhan branding dan informasi perusah
 
 **Fitur Utama:**
 - Tampilan modern dan responsif
-- Optimasi performa dengan Vite
-- Struktur kode rapi dan mudah dipelihara
 
 🔒 Repository:  https://github.com/Fadilyas-Fathuris/niskala-aksalab-photobooth-studio.git
 

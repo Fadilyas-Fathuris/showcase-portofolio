@@ -60,8 +60,8 @@ Aplikasi mobile untuk mendukung proses pengelolaan bank sampah pada komunitas **
 - Pengelolaan data yang mudah
 
 🔒 Repository:   
-Frontend : https://github.com/fadilyas24/aplikasi_bsu.git
-Backend : https://github.com/fadilyas24/flask-bsu.git
+- Frontend : https://github.com/fadilyas24/aplikasi_bsu.git
+- Backend : https://github.com/fadilyas24/flask-bsu.git
 ---
 
 ### 🌐 GovConnect — Sistem Berbasis Microservices

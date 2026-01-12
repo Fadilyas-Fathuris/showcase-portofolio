@@ -83,7 +83,7 @@ Sistem web berbasis microservices untuk agregasi data pengajuan surat dari tingk
 - Pengelolaan komunikasi antar service
 - Struktur sistem yang siap dikembangkan
 
-📄 Dokumentasi : 
+📄 Dokumentasi : https://l1nk.dev/executive-summary
 
 🔒 Repository:  
 - auth-service : https://github.com/Fadilyas-Fathuris/auth-service.git

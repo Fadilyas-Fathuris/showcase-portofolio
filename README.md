@@ -86,7 +86,8 @@ Sistem web berbasis microservices untuk agregasi data pengajuan surat dari tingk
 🔗 link akses : 
 - http:70.153.136.68
 - http:70.153.136.68/operator/login ( account for test, email : desa2@govconnect.com , password : password )
-- http:70.153.136.68/kabupaten/login ( account for test, email : kabupaten@govconnect.id , password : password ) 
+- http:70.153.136.68/kabupaten/login ( account for test, email : kabupaten@govconnect.id , password : password )
+
 📄 Dokumentasi : https://l1nk.dev/executive-summary
 
 🔒 Repository:  

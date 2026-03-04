@@ -3,8 +3,8 @@
 Fullstack Mobile & Web Developer  
 Flutter • Backend API • Microservices
 
-I am a Fullstack Developer with experience in building mobile applications, websites, and microservices-based systems for real organizational and institutional needs.
-My focus is on developing systems that are well-structured, secure, and easy to scale and maintain.
+Saya adalah Fullstack Developer dengan pengalaman membangun aplikasi mobile, website, dan sistem berbasis microservices untuk kebutuhan nyata organisasi dan instansi. 
+Fokus saya adalah membangun sistem yang terstruktur, aman, dan mudah dikembangkan.
 
 ---
 
